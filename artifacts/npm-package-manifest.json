@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "mode": "runtime-only",
-  "sourceCommit": "d20dc22c19a9101647a8198f46dc4037277da7cc",
+  "sourceCommit": "75abb46eea1786fb494d942ae4341191e524e975",
   "aggregateRelease": {
     "repository": "flyfish-dev/file-viewer",
-    "tag": "v3.2.0",
-    "commit": "8cf8e2795300ada3bb27a090c786bdf2d0211ae4"
+    "tag": "v3.2.1",
+    "commit": "d466af1af51babb6d37bbf8db715c5497a88a2a1"
   },
   "package": {
     "packageName": "@file-viewer/react-full",
-    "version": "3.2.0",
-    "tarball": "file-viewer-react-full-3.2.0.tgz",
-    "tarballSize": 5172,
-    "sha256": "4b4e293562770c58579867ebb63e5161e85db104884078ee55556ef38e960da8",
+    "version": "3.2.1",
+    "tarball": "file-viewer-react-full-3.2.1.tgz",
+    "tarballSize": 5176,
+    "sha256": "ec85c76575c9a1d8b63920a5ea871ce0e99c720dd16511fb7ba0301f69aadc4a",
     "fileCount": 7,
-    "integrity": "sha512-icwY6f2Oi5wL4kgoNz1l9Gp7NTRMRrvhTeAPQdpWZ62Eqov8GT0cdQDmoGR5kqlzCybBcjlMgFTbJiNNbs+kcg==",
+    "integrity": "sha512-ztAdHs/cda/L/q2u++aBlzMF1pruLZTPc37tC3l+5VfDQiaA/gEFIQ9AerI7qsrpVP3tKuiAimj8xkiHYtTuLA==",
     "license": "Apache-2.0",
     "releaseArtifact": {
       "includeTarball": true
